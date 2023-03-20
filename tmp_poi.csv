@@ -1,0 +1,166 @@
+type,id,geometry.type,geometry.coordinates,properties.xid,properties.name,properties.dist,properties.rate,properties.osm,properties.kinds,properties.wikidata
+Feature,7382676,Point,"[1.2264752, 45.1129303]",W385910188,,764.2244834,0,way/385910188,"cemeteries,historic,burial_places,interesting_places",
+Feature,11633588,Point,"[1.228677, 45.1166534]",N5661522736,Ancienne commanderie,1149.54410605,7,node/5661522736,"architecture,historic_architecture,fortifications,historic,interesting_places,manor_houses,castles",Q1980181
+Feature,11197784,Point,"[1.2285235, 45.1170959]",W493141678,Église Notre-Dame et Saint-Jean-Baptiste,1199.00183424,7,way/493141678,"religion,churches,interesting_places,catholic_churches",Q3580784
+Feature,2091704,Point,"[1.2289627, 45.1174431]",N8911092217,,1236.89218136,0,node/8911092217,"historic,burial_places,interesting_places,war_memorials",
+Feature,2091766,Point,"[1.237003, 45.1162872]",N4850590069,,1269.95236478,0,node/4850590069,"other,unclassified_objects,interesting_places,historic_object",
+Feature,11310502,Point,"[1.2230246, 45.0929222]",N4850774343,Château de la Fleunie,1563.91937822,3,node/4850774343,"fortifications,historic,interesting_places,castles",Q2971238
+Feature,8083600,Point,"[1.2224585, 45.0927582]",W493144722,,1595.16458777,0,way/493144722,"architecture,historic_architecture,fortifications,historic,interesting_places,manor_houses,castles",
+Feature,2091767,Point,"[1.2335935, 45.1210442]",N8946658157,,1674.43163016,0,node/8946658157,"other,unclassified_objects,interesting_places,historic_object",
+Feature,2091705,Point,"[1.2254372, 45.1212883]",N4112196758,,1689.30117651,0,node/4112196758,"view_points,other,interesting_places",
+Feature,11703876,Point,"[1.2137544, 45.0950356]",W966779129,Château de la Petite Filolie,1741.73634591,3,way/966779129,"architecture,historic_architecture,fortifications,historic,interesting_places,manor_houses,castles",Q2971339
+Feature,11680070,Point,"[1.2133735, 45.0952797]",N4852140912,La Filolie,1743.42738248,3,node/4852140912,"fortifications,historic,interesting_places,castles",Q2971339
+Feature,2089356,Point,"[1.2121354, 45.0890846]",N333770037,,2335.35379253,0,node/333770037,"view_points,other,interesting_places",
+Feature,2091708,Point,"[1.2284275, 45.129425]",N8857087270,,2568.96312391,0,node/8857087270,"historic,monuments_and_memorials,interesting_places,monuments",
+Feature,2091697,Point,"[1.1996082, 45.0940437]",W492672105,Pigeonnier,2693.61786384,1,way/492672105,"other,unclassified_objects,interesting_places,historic_object",
+Feature,11263982,Point,"[1.1989008, 45.094635]",W492672102,Château de Sauvebœuf,2709.50268261,7,way/492672102,"fortifications,historic,interesting_places,castles",Q2283624
+Feature,11263981,Point,"[1.198174, 45.0949173]",N1995203842,Château de Sauvebœuf,2745.26206411,7,node/1995203842,"fortifications,historic,interesting_places,castles",Q2283624
+Feature,7165889,Point,"[1.1977623, 45.094326]",W496411361,,2804.77387562,0,way/496411361,"fountains,cultural,urban_environment,interesting_places",
+Feature,2091696,Point,"[1.2197914, 45.1313591]",W137537101,,2878.39431879,0,way/137537101,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091701,Point,"[1.1925719, 45.1122932]",W493146643,,2951.95912889,0,way/493146643,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091723,Point,"[1.2230576, 45.1335793]",W137537107,,3067.40533476,0,way/137537107,"cemeteries,historic,burial_places,interesting_places",
+Feature,16189770,Point,"[1.22312, 45.1338158]",Q38654022,église Saint-Laurent de Bersac,3092.58547656,2,,"religion,churches,interesting_places,other_churches",Q38654022
+Feature,2091724,Point,"[1.2231224, 45.1338348]",W487777192,Église de Barsac,3094.69302313,1,way/487777192,"religion,other_temples,interesting_places",
+Feature,9798642,Point,"[1.2460718, 45.1318245]",N8842447901,,3133.16802982,0,node/8842447901,"other,unclassified_objects,interesting_places,historic_object",
+Feature,2091722,Point,"[1.228761, 45.1359825]",W409294345,,3297.03277027,0,way/409294345,"fortifications,historic,interesting_places,castles",
+Feature,2091728,Point,"[1.229122, 45.1368523]",N1508658418,Château de Peyraux,3393.76671878,6,node/1508658418,"fortifications,historic,interesting_places,castles",Q22919788
+Feature,2091727,Point,"[1.2213553, 45.1365318]",N8849961183,,3413.17349185,0,node/8849961183,"other,unclassified_objects,interesting_places,historic_object",
+Feature,11677345,Point,"[1.1872551, 45.1150093]",W694266525,Église Saint-Barthélemy des Farges,3433.3089299,2,way/694266525,"religion,churches,interesting_places,other_churches",Q38433406
+Feature,11633589,Point,"[1.1872419, 45.1151276]",W500269133,Église Saint-Barthélemy des Farges,3438.05800008,2,way/500269133,"religion,churches,interesting_places,catholic_churches",Q38433406
+Feature,2091797,Point,"[1.2432153, 45.1358948]",W493518573,,3469.52026637,0,way/493518573,"historic,monuments_and_memorials,interesting_places,monuments",
+Feature,11263985,Point,"[1.2434747, 45.1358719]",W487801925,église Saint-Lazare de Saint-Lazare,3473.78685975,2,way/487801925,"religion,churches,interesting_places,other_churches",Q38663303
+Feature,2091668,Point,"[1.1955615, 45.0853615]",W188875720,,3521.4717459,0,way/188875720,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091799,Point,"[1.2439685, 45.1364098]",N8850034877,,3542.72493071,0,node/8850034877,"other,unclassified_objects,interesting_places,historic_object",
+Feature,7382677,Point,"[1.2411247, 45.1380768]",W137382654,,3654.01515656,0,way/137382654,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091739,Point,"[1.2680634, 45.0860252]",N7227468149,Guerre 14 18,3805.53720806,1,node/7227468149,"historic,monuments_and_memorials,interesting_places,monuments",
+Feature,2091740,Point,"[1.2652879, 45.0833092]",W190025753,Cimetière de Coly=,3826.65175894,1,way/190025753,"cemeteries,historic,burial_places,interesting_places",
+Feature,11604961,Point,"[1.2678969, 45.0854454]",W482117594,Église Saint-Raphaël de Coly,3833.47889405,2,way/482117594,"religion,churches,interesting_places,catholic_churches",Q41749678
+Feature,11171613,Point,"[1.1913158, 45.0818405]",W280280140,église Saint-Cyr-et-Sainte-Julitte d'Aubas,4031.46559781,7,way/280280140,"religion,churches,interesting_places,catholic_churches",Q19930419
+Feature,15774357,Point,"[1.2298419, 45.1469231]",Q60336711,chapelle Boissarie,4513.23404776,2,,"religion,churches,interesting_places,other_churches",Q60336711
+Feature,11324057,Point,"[1.2298474, 45.1469421]",W678509759,Chapelle Saint Roch,4515.52054432,2,way/678509759,"religion,churches,interesting_places,other_churches",Q60386008
+Feature,11324058,Point,"[1.2341557, 45.147728]",W678509734,Église Saint-Antoine de Beauregard-de-Terrasson,4619.63993625,2,way/678509734,"religion,churches,interesting_places,other_churches",Q38419424
+Feature,2091800,Point,"[1.2728105, 45.1362572]",W136887534,,4784.26221419,0,way/136887534,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091802,Point,"[1.2713845, 45.1375618]",N4994658297,,4807.97107162,0,node/4994658297,"other,unclassified_objects,interesting_places,historic_object",
+Feature,11633590,Point,"[1.2475567, 45.0645256]",W436761170,Vieil hôpital,4865.63963828,1,way/436761170,"architecture,historic_architecture,interesting_places,other_buildings_and_structures",Q64554305
+Feature,2091741,Point,"[1.2454814, 45.0640755]",N3499168408,Le Paysage de L'Abbaye,4867.51701225,1,node/3499168408,"view_points,other,interesting_places",
+Feature,11382086,Point,"[1.2739204, 45.1367989]",W335780783,église Sainte-Marie de Lavilledieu,4889.00319313,2,way/335780783,"religion,churches,interesting_places,catholic_churches",Q38523510
+Feature,2091788,Point,"[1.2738005, 45.1369743]",N1501764133,,4895.70794182,0,node/1501764133,"historic,burial_places,interesting_places,war_memorials",
+Feature,15362050,Point,"[1.2473201, 45.0634613]",Q105087342,Ancien presbytère de Saint-Amand-de-Coly,4973.47348588,2,,"religion,other_temples,interesting_places",Q105087342
+Feature,11422108,Point,"[1.2480297, 45.0633316]",W342987339,Abbaye de Saint-Amand,5003.67504054,7,way/342987339,"religion,churches,monasteries,interesting_places,catholic_churches",Q2315401
+Feature,16189223,Point,"[1.24812, 45.063324]",Q38411266,église Saint-Amand de Saint-Amand-de-Coly,5006.40671784,2,,"religion,churches,interesting_places,other_churches",Q38411266
+Feature,2091798,Point,"[1.2323339, 45.1529083]",W137554620,Cimetière,5184.20762437,1,way/137554620,"cemeteries,historic,burial_places,interesting_places",
+Feature,11171617,Point,"[1.222519, 45.1533852]",N1508788594,Château de Mellet (Beauregard-de-Terrasson),5256.9603706,7,node/1508788594,"fortifications,historic,interesting_places,castles",Q22988295
+Feature,2091769,Point,"[1.2904991, 45.1256104]",W335783928,,5284.44735282,0,way/335783928,"religion,other_temples,interesting_places",
+Feature,11356630,Point,"[1.2435697, 45.0598602]",W189563171,Cimetière de Saint-Amand-de-Coly,5286.59325754,2,way/189563171,"cemeteries,historic,burial_places,interesting_places",Q65568245
+Feature,16102779,Point,"[1.2938056, 45.1239433]",Q22988170,grotte préhistorique de Saint-Sours,5454.13652272,5,,"interesting_places,natural,geological_formations,caves",Q22988170
+Feature,2091746,Point,"[1.2965028, 45.0870209]",W906846318,,5721.08041695,0,way/906846318,"cemeteries,historic,burial_places,interesting_places",
+Feature,11263984,Point,"[1.29656, 45.0869217]",W335784897,Chapelle Notre-Dame du Mouret,5729.38224039,6,way/335784897,"religion,churches,interesting_places,other_churches",Q22996181
+Feature,2091775,Point,"[1.2988491, 45.129982]",W970223517,,6084.56467823,0,way/970223517,"fountains,cultural,urban_environment,interesting_places",
+Feature,2091770,Point,"[1.3019627, 45.1249046]",N5843526286,,6092.90806484,0,node/5843526286,"view_points,other,interesting_places",
+Feature,2091776,Point,"[1.2990469, 45.129982]",W970223518,,6098.52543408,0,way/970223518,"fountains,cultural,urban_environment,interesting_places",
+Feature,7139438,Point,"[1.2992465, 45.1299706]",W970223519,,6112.26376409,0,way/970223519,"fountains,cultural,urban_environment,interesting_places",
+Feature,11356629,Point,"[1.1960005, 45.1564102]",N4784330519,Château de la Chapoulie,6146.75356208,6,node/4784330519,"fortifications,historic,interesting_places,castles",Q22987784
+Feature,11401923,Point,"[1.3030066, 45.1246948]",W618211872,Jardins de l'Imaginaire,6162.51463201,7,way/618211872,"urban_environment,gardens_and_parks,cultural,interesting_places",Q3162668
+Feature,7165890,Point,"[1.3028855, 45.1262093]",N5841384085,Saint-Sour,6211.24032109,1,node/5841384085,"fountains,cultural,urban_environment,interesting_places",
+Feature,2091805,Point,"[1.2986898, 45.1328163]",N1503313452,,6216.12332781,0,node/1503313452,"religion,other_temples,interesting_places",
+Feature,2091768,Point,"[1.3041812, 45.1257782]",N6258483572,La Marzelle,6290.0454008,1,node/6258483572,"fountains,cultural,urban_environment,interesting_places",
+Feature,2091786,Point,"[1.3037151, 45.126667]",W385740203,Saint-Julien,6290.35365397,1,way/385740203,"fountains,cultural,urban_environment,interesting_places",
+Feature,11541004,Point,"[1.1914667, 45.1562653]",W68646013,église Saint-Louis de Peyrignac,6291.98431505,1,way/68646013,"religion,churches,interesting_places,catholic_churches",Q41749884
+Feature,2091787,Point,"[1.3038656, 45.1268196]",N6269446938,Sarcophages du haut Moyen-Age,6307.64653377,1,node/6269446938,"historic,archaeology,interesting_places,other_archaeological_sites",
+Feature,7165891,Point,"[1.3049607, 45.1259041]",N5841699385,,6352.38922146,0,node/5841699385,"fountains,cultural,urban_environment,interesting_places",
+Feature,4991185,Point,"[1.3021886, 45.1311646]",N6964096980,Ciné Roc,6378.20659505,1,node/6964096980,"cultural,cinemas,theatres_and_entertainments,interesting_places",
+Feature,11541005,Point,"[1.3050929, 45.1266022]",W335784821,Maison Renaissance,6389.23155919,6,way/335784821,"architecture,historic_architecture,interesting_places,other_buildings_and_structures",Q22988175
+Feature,7165892,Point,"[1.3053715, 45.127182]",N5841650522,,6432.66647039,0,node/5841650522,"fountains,cultural,urban_environment,interesting_places",
+Feature,8078617,Point,"[1.3055301, 45.1270218]",W335786954,Église Saint-Sour de Terrasson,6437.83093779,6,way/335786954,"religion,churches,interesting_places,catholic_churches",Q22988166
+Feature,11356632,Point,"[1.3044091, 45.1290512]",N5660812153,Monument aux morts de la guerre 1914-1918,6440.57683125,5,node/5660812153,"historic,monuments_and_memorials,burial_places,interesting_places,war_memorials,monuments",Q22996235
+Feature,11725638,Point,"[1.3050336, 45.1285095]",W856427375,Ancien Pont,6462.6005246,7,way/856427375,"bridges,architecture,interesting_places,other_bridges",Q3558093
+Feature,6815167,Point,"[1.1567416, 45.1341896]",N3693862564,Cluzeau des Fraux,6482.92574557,1,node/3693862564,"geological_formations,natural,interesting_places,caves",
+Feature,7045570,Point,"[1.306581, 45.1268196]",N5830591855,Maison du Patrimoine,6507.31376492,1,node/5830591855,"cultural,museums,interesting_places,other_museums",
+Feature,11263983,Point,"[1.1567588, 45.1346512]",N4544649736,Chartreuse des Fraux,6506.23490564,7,node/4544649736,"religion,fortifications,historic,monasteries,interesting_places,castles",Q22996217
+Feature,2091777,Point,"[1.3072773, 45.1257973]",N5842078856,,6520.01433698,0,node/5842078856,"view_points,other,interesting_places",
+Feature,7486533,Point,"[1.1631273, 45.0701523]",W264101012,Cimetière Gadal,6568.29803098,1,way/264101012,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091729,Point,"[1.1898172, 45.1584396]",W225564962,,6566.28519226,0,way/225564962,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091794,Point,"[1.3053535, 45.1307945]",N6258483573,,6586.52755484,0,node/6258483573,"fountains,cultural,urban_environment,interesting_places",
+Feature,2091789,Point,"[1.3070134, 45.1280975]",N5842078857,,6589.96438048,0,node/5842078857,"view_points,other,interesting_places",
+Feature,2091655,Point,"[1.1625454, 45.0701523]",W189035783,Ancien cimetière,6604.58691898,1,way/189035783,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091763,Point,"[1.3081398, 45.1265182]",W137128690,,6610.81349345,0,way/137128690,"cemeteries,historic,burial_places,interesting_places",
+Feature,7486534,Point,"[1.1630111, 45.0696526]",W264101020,Nouveau cimetière,6609.7074964,1,way/264101020,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091795,Point,"[1.3082033, 45.1277618]",W137128691,,6663.68087493,0,way/137128691,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091731,Point,"[1.1932479, 45.1611214]",N4909508277,,6712.61973251,0,node/4909508277,"other,unclassified_objects,interesting_places,historic_object",
+Feature,2091654,Point,"[1.1735225, 45.0600967]",N4899850080,,6748.51761525,0,node/4899850080,"other,unclassified_objects,interesting_places,historic_object",
+Feature,15346192,Point,"[1.162222, 45.0675011]",Q103185091,Montignac (Samian Ware Discovery Site),6807.7118599,1,,"historic,archaeology,interesting_places,other_archaeological_sites",Q103185091
+Feature,15417203,Point,"[1.1629722, 45.066082]",Q22920018,maison à galerie,6863.6732632,6,,"historic_architecture,architecture,interesting_places,other_buildings_and_structures",Q22920018
+Feature,11541003,Point,"[1.1624699, 45.0664177]",W188895045,Église Saint-Pierre-ès-Liens de Montignac,6869.58234349,7,way/188895045,"religion,churches,interesting_places,catholic_churches",Q3583682
+Feature,2091646,Point,"[1.1643074, 45.0648918]",N8983911801,,6872.31980218,0,node/8983911801,"cultural,urban_environment,interesting_places,sculptures",
+Feature,14502409,Point,"[1.1641389, 45.0649986]",Q22920012,hôpital de Montignac,6874.10777112,6,,"historic_architecture,architecture,interesting_places,other_buildings_and_structures",Q22920012
+Feature,15417191,Point,"[1.1626945, 45.0660019]",Q22920013,"maison, quai Merilhou",6886.30510981,5,,"historic_architecture,architecture,interesting_places,other_buildings_and_structures",Q22920013
+Feature,16231636,Point,"[1.1638334, 45.0649719]",Q60343390,Couvent des Clarisses,6894.08753009,2,,"religion,churches,interesting_places,other_churches",Q60343390
+Feature,14502410,Point,"[1.1625556, 45.0659714]",Q22920014,"maison, quai Merilhou",6896.62009271,6,,"historic_architecture,architecture,interesting_places,other_buildings_and_structures",Q22920014
+Feature,16101714,Point,"[1.1624445, 45.0659447]",Q22920016,"maison, quai Merilhou",6905.2758954,6,,"historic_architecture,architecture,interesting_places,other_buildings_and_structures",Q22920016
+Feature,5716615,Point,"[1.1636724, 45.0648956]",W188896547,Salle Jean Macé,6909.21931258,1,way/188896547,"religion,other_temples,interesting_places",
+Feature,2091662,Point,"[1.1791869, 45.0552063]",N4345414421,Parc à Ours,6907.59375013,1,node/4345414421,"other,unclassified_objects,interesting_places,tourist_object",
+Feature,6163297,Point,"[1.1785536, 45.0553284]",W188896657,,6924.99314071,0,way/188896657,"cultural,museums,interesting_places,other_museums",
+Feature,2091656,Point,"[1.1785131, 45.055172]",N5767488825,Fouilles,6941.27931613,1,node/5767488825,"historic,archaeology,interesting_places,other_archaeological_sites",
+Feature,11725634,Point,"[1.1788046, 45.0549736]",N4345414420,Le Régourdou,6946.32063208,7,node/4345414420,"historic,archaeology,geological_formations,natural,interesting_places,other_archaeological_sites,caves",Q581818
+Feature,16002519,Point,"[1.1637501, 45.0641899]",Q60345666,Chapelle de l'ancien prieuré,6957.20185119,2,,"religion,churches,interesting_places,other_churches",Q60345666
+Feature,2091645,Point,"[1.1637377, 45.0640984]",N8983911806,,6964.90076781,0,node/8983911806,"cultural,urban_environment,interesting_places,installation",
+Feature,14502408,Point,"[1.163667, 45.0641098]",Q22920010,Ancien hôpital Saint-Jean de Montignac,6967.94634557,6,,"historic_architecture,architecture,interesting_places,other_buildings_and_structures",Q22920010
+Feature,11541006,Point,"[1.3125709, 45.1278687]",N1504183554,Château du Fraysse,6989.70329412,6,node/1504183554,"fortifications,historic,interesting_places,castles",Q22996182
+Feature,14732446,Point,"[1.1628333, 45.0640831]",Q22996221,Montignac Duchêne house,7018.68143914,7,,"historic_architecture,architecture,interesting_places,other_buildings_and_structures",Q22996221
+Feature,11422107,Point,"[1.21052, 45.044487]",W350900786,Château de la Grande Filolie,7025.53068694,7,way/350900786,"fortifications,historic,interesting_places,castles",Q2971255
+Feature,11403389,Point,"[1.1600305, 45.0657272]",W188893723,Hôtel de Bouilhac,7066.23989338,7,way/188893723,"architecture,historic_architecture,interesting_places,other_buildings_and_structures",Q21427399
+Feature,7053838,Point,"[1.1698933, 45.0582962]",W550229889,Lascaux Centre International,7086.61912027,1,way/550229889,"cultural,museums,interesting_places,other_museums",
+Feature,2091715,Point,"[1.1581168, 45.1464996]",W291210137,,7151.71015973,0,way/291210137,"cemeteries,historic,burial_places,interesting_places",
+Feature,14913649,Point,"[1.17, 45.0574989]",Q463159,Prehistoric Sites and Decorated Caves of the Vézère Valley,7148.17352183,7,,"historic,archaeology,interesting_places,natural,geological_formations,other_archaeological_sites,caves",Q463159
+Feature,6815168,Point,"[1.2992536, 45.0651131]",N6612073691,Event de la Bouygue,7173.23713815,1,node/6612073691,"geological_formations,natural,interesting_places,caves",
+Feature,14418058,Point,"[1.1592789, 45.0645027]",H2472951,hotel de bouilhac,7199.10909005,7,,"architecture,historic_architecture,accomodations,interesting_places,other_hotels,other_buildings_and_structures",Q21427399
+Feature,11171614,Point,"[1.1367891, 45.1047516]",W604551156,Église Saint-Étienne d'Auriac-du-Périgord,7268.65577698,7,way/604551156,"religion,churches,interesting_places,other_churches",Q3584741
+Feature,11171615,Point,"[1.1367044, 45.1047783]",N8777573817,Église Saint-Étienne d'Auriac-du-Périgord,7275.24377808,7,node/8777573817,"religion,churches,interesting_places,other_churches",Q3584741
+Feature,2091632,Point,"[1.2202066, 45.0412598]",N5340531879,,7263.77926007,0,node/5340531879,"other,unclassified_objects,interesting_places,historic_object",
+Feature,15873950,Point,"[1.179582, 45.0509033]",Q22920009,gisement préhistorique de La Balutie,7289.25211634,6,,"historic,archaeology,interesting_places,other_archaeological_sites",Q22920009
+Feature,11236227,Point,"[1.1538892, 45.1462936]",W503435490,église Saint-Pierre-ès-Liens de La Bachellerie,7400.81111046,2,way/503435490,"religion,churches,interesting_places,catholic_churches",Q41749589
+Feature,2091803,Point,"[1.3063278, 45.1447449]",W636078161,,7425.4686217,0,way/636078161,"historic,monuments_and_memorials,interesting_places,monuments",
+Feature,11284678,Point,"[1.170959, 45.0537643]",N3182744761,Grotte de Lascaux,7421.26303114,7,node/3182744761,"historic,archaeology,geological_formations,natural,interesting_places,other_archaeological_sites,caves",Q172125
+Feature,11790231,Point,"[1.3065022, 45.144722]",W636078160,Église Saint-Barthélemy de Cublac,7435.26323504,2,way/636078160,"religion,churches,interesting_places,catholic_churches",Q38429243
+Feature,15613656,Point,"[1.17611, 45.0491982]",Q7762483,The Scene of the Dead Man,7596.75014137,2,,"interesting_places,natural,geological_formations,caves",Q7762483
+Feature,2091647,Point,"[1.1671724, 45.0537071]",N260797495,Lascaux II,7613.93424611,1,node/260797495,"historic,archaeology,interesting_places,other_archaeological_sites",
+Feature,7045571,Point,"[1.3219639, 45.1271095]",N5830591856,Musée du Chocolat Bovetti,7662.37478973,1,node/5830591856,"cultural,museums,interesting_places,other_museums",
+Feature,2091670,Point,"[1.1314703, 45.104763]",W310863403,,7687.10718986,0,way/310863403,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091804,Point,"[1.3099593, 45.1455956]",W299229859,,7714.14944491,0,way/299229859,"cemeteries,historic,burial_places,interesting_places",
+Feature,15548021,Point,"[1.3014131, 45.1534843]",Q60442353,collégiale Notre-Dame de la Cabane de Cublac,7734.63467874,1,,"religion,churches,interesting_places,catholic_churches",Q60442353
+Feature,2091718,Point,"[1.1566247, 45.1549149]",N1714485430,,7854.62172501,0,node/1714485430,"other,unclassified_objects,interesting_places,historic_object",
+Feature,7165888,Point,"[1.1290487, 45.1125107]",W485737769,,7905.28259395,0,way/485737769,"fountains,cultural,urban_environment,interesting_places",
+Feature,11263980,Point,"[1.1342356, 45.0815773]",R2550009,Château de Coulonges,7958.96095535,6,relation/2550009,"fortifications,historic,interesting_places,castles",Q22920006
+Feature,15129146,Point,"[1.166666, 45.0499992]",Q103154479,Brenac (Samian Ware Discovery Site),7959.37270924,1,,"historic,archaeology,interesting_places,other_archaeological_sites",Q103154479
+Feature,16007527,Point,"[1.13403, 45.0807495]",Q64686744,Chapelle du château de Coulonges,8006.33114972,2,,"religion,churches,interesting_places,other_churches",Q64686744
+Feature,9966829,Point,"[1.2254339, 45.0336609]",N5842118658,,8079.27405086,0,node/5842118658,"view_points,other,interesting_places",
+Feature,11356628,Point,"[1.1260494, 45.1051521]",N4546228664,Château de la Faye,8112.81579389,7,node/4546228664,"fortifications,historic,interesting_places,castles",Q2971221
+Feature,14505165,Point,"[1.33223, 45.1174583]",Q25394186,monastère de la Transfiguration,8208.09930039,2,,"religion,monasteries,interesting_places",Q25394186
+Feature,11541011,Point,"[1.2286234, 45.1805229]",N5660812158,Domaine Le Noyer,8247.36699164,5,node/5660812158,"architecture,historic_architecture,fortifications,historic,interesting_places,castles,farms",Q59342805
+Feature,15190200,Point,"[1.2576112, 45.17836]",Q22996195,grotte préhistorique de la Sudrie,8314.53456941,5,,"interesting_places,natural,geological_formations,caves",Q22996195
+Feature,11171616,Point,"[1.1222651, 45.1107941]",W362418222,Chapelle Saint-Rémy,8423.92787945,7,way/362418222,"religion,churches,interesting_places,other_churches",Q2956981
+Feature,11567296,Point,"[1.1392502, 45.1486702]",W291430108,Château de Rastignac,8493.71751956,7,way/291430108,"fortifications,historic,interesting_places,castles",Q2417255
+Feature,2091719,Point,"[1.1559108, 45.1658783]",W152837044,,8773.76713801,0,way/152837044,"cemeteries,historic,burial_places,interesting_places",
+Feature,16231424,Point,"[1.152613, 45.0480347]",Q60336776,chapelle de Brénac,8845.40475257,1,,"religion,churches,interesting_places,other_churches",Q60336776
+Feature,2091635,Point,"[1.1527125, 45.0479126]",W367554217,,8850.03277401,0,way/367554217,"cemeteries,historic,burial_places,interesting_places",
+Feature,16102662,Point,"[1.140944, 45.1576118]",Q22975861,grotte du Peyrat,8978.43858689,5,,"interesting_places,natural,geological_formations,caves",Q22975861
+Feature,2091922,Point,"[1.2531455, 45.1859055]",W137654251,,9045.0062504,0,way/137654251,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091924,Point,"[1.2544926, 45.1866074]",N1509726730,,9143.56586106,0,node/1509726730,"historic,burial_places,interesting_places,war_memorials",
+Feature,11515084,Point,"[1.2550247, 45.1866379]",W521368127,Église Saint-Vaast de Villac,9156.09566921,6,way/521368127,"religion,churches,interesting_places,catholic_churches",Q41750192
+Feature,2091845,Point,"[1.2045314, 45.1870766]",W274288571,,9181.46179733,0,way/274288571,"cemeteries,historic,burial_places,interesting_places",
+Feature,2091844,Point,"[1.2060393, 45.1873016]",N6274788928,,9181.50279828,0,node/6274788928,"other,unclassified_objects,interesting_places,historic_object",
+Feature,11420305,Point,"[1.204215, 45.1871834]",W367089434,Église Notre-Dame-de-la-Nativité de Châtres,9198.14754774,2,way/367089434,"religion,churches,interesting_places,catholic_churches",Q38387055
+Feature,11448135,Point,"[1.2546784, 45.1870995]",N5660812159,Maison Salviat,9200.06936858,6,node/5660812159,"architecture,historic_architecture,interesting_places,other_buildings_and_structures",Q22988280
+Feature,2091745,Point,"[1.3116518, 45.0467911]",N3785802032,,9273.21526684,0,node/3785802032,"other,unclassified_objects,interesting_places,historic_object",
+Feature,11592324,Point,"[1.3098184, 45.0453339]",N5830591857,Grange dîmière de La Cassagne,9290.15685773,6,node/5830591857,"cultural,museums,interesting_places,other_museums",Q22919170
+Feature,2091716,Point,"[1.1514983, 45.1697273]",N5322839821,,9324.35812312,0,node/5322839821,"historic,burial_places,interesting_places,war_memorials",
+Feature,11604960,Point,"[1.1511481, 45.1698837]",W274285705,Église Saint-Pierre-et-Saint-Paul de Saint-Rabier,9355.35069328,2,way/274285705,"religion,churches,interesting_places,catholic_churches",Q41750082
+Feature,11231596,Point,"[1.1239595, 45.1498604]",W291431119,Église Notre-Dame-de-l'Assomption d'Azerat,9584.53060909,2,way/291431119,"religion,churches,interesting_places,other_churches",Q38388979
+Feature,2091687,Point,"[1.1241918, 45.1503181]",N4940996432,,9594.55963111,0,node/4940996432,"historic,monuments_and_memorials,interesting_places,monuments",
+Feature,2091688,Point,"[1.123508, 45.1495438]",W291431117,,9597.65793791,0,way/291431117,"cemeteries,historic,burial_places,interesting_places",
+Feature,15873940,Point,"[1.315889, 45.0450554]",Q22919171,Presbytère de La Cassagne,9645.20431672,7,,"religion,other_temples,interesting_places",Q22919171
+Feature,11725636,Point,"[1.3160684, 45.0449562]",W387299736,Église Saint-Barthélemy,9663.15537861,7,way/387299736,"religion,churches,interesting_places,catholic_churches",Q3581035
+Feature,11725635,Point,"[1.316093, 45.0447655]",N4771839521,Croix,9679.45000839,6,node/4771839521,"religion,other_temples,interesting_places",Q22919169
+Feature,2091672,Point,"[1.1061625, 45.1131516]",W493110230,,9706.0161506,0,way/493110230,"fortifications,historic,interesting_places,fortified_towers",
+Feature,11633587,Point,"[1.1224132, 45.1510887]",W504848591,Chapelle Notre-Dame-de-Bonne-Espérance (Azerat),9758.55067631,7,way/504848591,"religion,churches,interesting_places,catholic_churches",Q2956566
+Feature,2091753,Point,"[1.3196112, 45.0441551]",W316116340,,9924.60120001,0,way/316116340,"cemeteries,historic,burial_places,interesting_places",
