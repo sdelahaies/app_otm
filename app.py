@@ -10,12 +10,12 @@ import streamlit as st
 from streamlit_tags import st_tags
 from streamlit_folium import st_folium
 from datetime import datetime, timedelta
-import tkinter as tk
+#import tkinter as tk
 from st_aggrid import AgGrid,ColumnsAutoSizeMode
 from st_aggrid import AgGrid, GridUpdateMode
 from st_aggrid.grid_options_builder import GridOptionsBuilder
 
-from opentrip_api import query_opentripmap
+#from opentrip_api import query_opentripmap
 #from kmeans_const import kmeans_plan
 
 from k_means_constrained import KMeansConstrained
@@ -26,22 +26,6 @@ import streamlit.components.v1 as components
 
 st.set_page_config(layout="wide")
 
-
-logo = '''
-        ▄ ▄▄▄▄▖▄           
-     ▟████████████▄        DATASCIENTEST 
-   ▟████████████████▙▗     PROJET FIL ROUGE
-  ▟█▀      ▐█▘   ▝▀▜██▙          
- ▐█▌ ▗▄▄▄▄▄▟█▙▄▄▄▄  ▝█▙▄   
- ██▌ ▝▀▀▀▀███  ████▖ ▜█▗   ITINERAIRE DE VACANCE
- ███▙▖     ▜█  ████▘ ▐▌▙▘  POI RECOMMANDATION
-▝▐███████▌ ▐█  ██▛▘ ▗██ ▌  
- ▀█▌      ▗▟█      ▄██▛▐    
-  ▝██████████████████▚▘▘   
-    ▜██████████████▚▘▘     WORK_IN_PROGRESS...
-       ▀▀▀███▛▀▀▌▝▖▘     
-       ▝  ▝▝ ▘ ▝   
-'''
 
 colors = ['red', 'blue', 'green', 'purple', 'orange', 'darkred', \
     'lightred',  'darkblue', 'darkgreen', 'cadetblue', \
@@ -196,7 +180,6 @@ def kmeans_plan(df,nmin=3,nmax=6):
     txt=txt+'</div>'
     return df, txt
 
-print_logo(logo)
 fname = "cities.csv"
 df, list_cities, df_dest, df_poi, df_plan = init(fname)
 
